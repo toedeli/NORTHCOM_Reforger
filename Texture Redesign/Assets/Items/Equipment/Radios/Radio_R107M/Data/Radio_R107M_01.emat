@@ -1,0 +1,5 @@
+MatPBRBasic : "{E65286CCB6C80A96}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01.emat" {
+ RoughnessScale 2
+ MetalnessScale 1
+ CavityFromAO 1
+}

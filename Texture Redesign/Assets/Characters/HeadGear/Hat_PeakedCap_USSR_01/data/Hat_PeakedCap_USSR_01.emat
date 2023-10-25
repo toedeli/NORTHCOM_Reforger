@@ -1,0 +1,8 @@
+MatPBRBasic : "{E95F9BCA9858B8B8}Assets/Characters/HeadGear/Hat_PeakedCap_USSR_01/data/Hat_PeakedCap_USSR_01.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

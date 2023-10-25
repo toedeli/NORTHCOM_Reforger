@@ -1,0 +1,7 @@
+MatPBRBasic : "{18250B7035138F40}Assets/Items/Equipment/Backpacks/Backpack_Medical_Soviet/Data/Bandolier_Soviet.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

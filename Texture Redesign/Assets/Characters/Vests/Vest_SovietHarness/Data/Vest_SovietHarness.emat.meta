@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{DA9B899F4A4561C7}Assets/Characters/Vests/Vest_SovietHarness/Data/Vest_SovietHarness.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

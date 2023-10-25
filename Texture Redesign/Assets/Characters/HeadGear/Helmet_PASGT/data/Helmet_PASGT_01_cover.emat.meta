@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{56FC2FA8D94F3784}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_01_cover.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

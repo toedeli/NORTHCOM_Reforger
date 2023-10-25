@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{351F391B6A84871B}Assets/Characters/Heads/Head_Black_02/Data/Head_Black_02_neck.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

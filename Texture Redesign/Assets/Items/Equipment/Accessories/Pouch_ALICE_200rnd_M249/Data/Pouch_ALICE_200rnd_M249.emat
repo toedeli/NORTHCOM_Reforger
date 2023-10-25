@@ -1,0 +1,6 @@
+MatPBRBasic : "{4DB662AD3DF3BCDC}Assets/Items/Equipment/Accessories/Pouch_ALICE_200rnd_M249/Data/Pouch_ALICE_200rnd_M249.emat" {
+ RoughnessScale 1.5
+ MetalnessScale 2.5
+ AOScale 0.85
+ DielectricReflectance 0.03
+}

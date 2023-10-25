@@ -1,0 +1,6 @@
+MatPBRBasic : "{6050030C5F99239F}Assets/Characters/Vests/Vest_ALICE/Data/vest_ALICE.emat" {
+ RoughnessScale 1.5
+ MetalnessScale 2.5
+ AOScale 0.85
+ DielectricReflectance 0.03
+}

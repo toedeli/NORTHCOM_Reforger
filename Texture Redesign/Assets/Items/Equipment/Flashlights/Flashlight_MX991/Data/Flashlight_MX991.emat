@@ -1,0 +1,8 @@
+MatPBRBasic : "{B16BC7EEAC958266}Assets/Items/Equipment/Flashlights/Flashlight_MX991/Data/Flashlight_MX991.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ MetalnessScale 0.8
+ AOScale 0.85
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

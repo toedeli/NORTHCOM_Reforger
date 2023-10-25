@@ -1,0 +1,5 @@
+MatPBRBasic : "{CBE71FFD4B3A13A8}Assets/Characters/Vests/Vest_Lifchik/Data/Vest_Lifchik.emat" {
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

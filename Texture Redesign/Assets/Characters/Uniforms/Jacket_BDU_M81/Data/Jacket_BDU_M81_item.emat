@@ -1,0 +1,6 @@
+MatPBRBasic : "{D99A485623230FB3}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_M81_item.emat" {
+ SpecularMul 0.75
+ RoughnessScale 5
+ AOScale 0.7
+ DielectricReflectance 0.02
+}

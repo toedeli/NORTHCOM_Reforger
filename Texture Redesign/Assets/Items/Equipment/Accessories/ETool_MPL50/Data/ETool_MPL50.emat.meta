@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{37B573D5AB057A35}Assets/Items/Equipment/Accessories/ETool_MPL50/Data/ETool_MPL50.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

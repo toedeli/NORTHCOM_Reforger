@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{7BA535752CC9520A}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,11 @@
+MatPBRMulti : "{74AC719D5B6657FA}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ GlobalMCRMap "{4FA34DAA35A6AC75}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_BCR.edds"
+ OverlayBlackPower 0
+ GlobalMapsUVTransform MatUVTransform "{5EB14E116FE4DC4B}" {
+ }
+}

@@ -1,0 +1,8 @@
+MatPBRMulti : "{91998878F8C724D8}Assets/Characters/Uniforms/Jacket_M70/Data/Jacket_M70_01.emat" {
+ SpecularMul 0
+ RoughnessScale 2
+ MetalnessScale 5
+ AOScale 0.6
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

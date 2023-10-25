@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FD872D4AB9A1EEA1}Assets/Items/Equipment/Radios/Radio_ANPRC68/Data/Radio_ANPRC68_01_Pouch.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

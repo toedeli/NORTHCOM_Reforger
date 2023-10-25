@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C7190F04D245B05C}Assets/Characters/Heads/Head_Black_02/Data/Head_Black_02.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

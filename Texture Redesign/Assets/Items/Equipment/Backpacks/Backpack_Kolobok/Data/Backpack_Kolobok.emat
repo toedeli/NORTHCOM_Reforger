@@ -1,0 +1,7 @@
+MatPBRBasic : "{48EB6583BD58D612}Assets/Items/Equipment/Backpacks/Backpack_Kolobok/Data/Backpack_Kolobok.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

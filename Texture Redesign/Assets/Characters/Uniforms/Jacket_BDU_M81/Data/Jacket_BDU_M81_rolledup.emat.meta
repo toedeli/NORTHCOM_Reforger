@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{34FFC0CC75A1BE69}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_M81_rolledup.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

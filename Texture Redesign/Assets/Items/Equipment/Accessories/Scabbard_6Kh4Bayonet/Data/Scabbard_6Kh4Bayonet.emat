@@ -1,0 +1,7 @@
+MatPBRBasic : "{242A0497AEBE7196}Assets/Items/Equipment/Accessories/Scabbard_6Kh4Bayonet/Data/Scabbard_6Kh4Bayonet.emat" {
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

@@ -1,0 +1,7 @@
+MatPBRBasic : "{5133B2C7276E8EB6}Assets/Characters/Vests/Vest_M79GrenadeCarrier/Data/Vest_M79GrenadeCarrier.emat" {
+ RoughnessScale 1.5
+ MetalnessScale 2.5
+ AOScale 0.85
+ DielectricReflectance 0.03
+ CavityFromAO 1
+}

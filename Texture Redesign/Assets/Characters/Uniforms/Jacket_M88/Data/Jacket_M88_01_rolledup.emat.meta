@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{83CB071F44BD32BA}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_rolledup.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,7 @@
+MatPBRBasic : "{4B97F900B4458E75}Assets/Characters/HeadGear/Hat_M70/Data/Hat_M70_01.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ AOScale 0.65
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

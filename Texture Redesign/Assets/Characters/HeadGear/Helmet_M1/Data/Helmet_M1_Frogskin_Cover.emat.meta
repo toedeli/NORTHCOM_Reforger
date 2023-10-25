@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{1FE43C96E92540E6}Assets/Characters/HeadGear/Helmet_M1/Data/Helmet_M1_Frogskin_Cover.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

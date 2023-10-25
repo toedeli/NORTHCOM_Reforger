@@ -1,0 +1,8 @@
+MatPBRBasic : "{2E2D70F43B6E3F2C}Assets/Items/Equipment/Backpacks/Backpack_RPG_Gunner/Data/Backpack_RPG_Gunner.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

@@ -1,0 +1,6 @@
+MatPBRMulti : "{E36135AF272AF463}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2.emat" {
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

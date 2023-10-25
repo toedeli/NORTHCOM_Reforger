@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B3522807D775D33D}Assets/Items/Equipment/Accessories/Holster_PM/Data/Holster_PM.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

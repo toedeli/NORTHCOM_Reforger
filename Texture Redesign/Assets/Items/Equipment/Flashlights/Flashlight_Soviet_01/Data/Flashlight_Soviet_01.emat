@@ -1,0 +1,7 @@
+MatPBRBasic : "{4692992964F09767}Assets/Items/Equipment/Flashlights/Flashlight_Soviet_01/Data/Flashlight_Soviet_01.emat" {
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

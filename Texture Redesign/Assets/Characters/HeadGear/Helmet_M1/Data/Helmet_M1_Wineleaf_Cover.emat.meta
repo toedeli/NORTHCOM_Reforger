@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B7B0D209AA80CF23}Assets/Characters/HeadGear/Helmet_M1/Data/Helmet_M1_Wineleaf_Cover.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

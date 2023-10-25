@@ -1,0 +1,8 @@
+MatPBRBasic : "{4D1900ADC2FC4B03}Assets/Items/Equipment/Canteens/Canteen_US/Data/Canteen_US_01.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ MetalnessScale 0.8
+ AOScale 0.85
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

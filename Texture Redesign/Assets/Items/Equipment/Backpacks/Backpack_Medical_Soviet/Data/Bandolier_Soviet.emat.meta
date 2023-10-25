@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{18250B7035138F40}Assets/Items/Equipment/Backpacks/Backpack_Medical_Soviet/Data/Bandolier_Soviet.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

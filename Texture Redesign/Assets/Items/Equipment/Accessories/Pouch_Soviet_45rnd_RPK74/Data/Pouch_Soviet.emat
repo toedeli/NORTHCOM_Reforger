@@ -1,0 +1,7 @@
+MatPBRBasic : "{8614C75189BBC0AA}Assets/Items/Equipment/Accessories/Pouch_Soviet_45rnd_RPK74/Data/Pouch_Soviet.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

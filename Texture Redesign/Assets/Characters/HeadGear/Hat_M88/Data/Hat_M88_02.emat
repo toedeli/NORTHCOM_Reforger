@@ -1,0 +1,8 @@
+MatPBRBasic : "{55667523DDFC6D3E}Assets/Characters/HeadGear/Hat_M88/Data/Hat_M88_02.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

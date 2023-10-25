@@ -1,0 +1,4 @@
+MatPBRBasic : "{BFC31FA709F6FBF9}Assets/Items/Equipment/Accessories/ETool_ALICE/Data/ETool_ALICE.emat" {
+ SpecularMul 0
+ AOScale 0.8
+}

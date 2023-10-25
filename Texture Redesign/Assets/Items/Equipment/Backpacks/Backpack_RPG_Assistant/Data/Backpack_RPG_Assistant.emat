@@ -1,0 +1,7 @@
+MatPBRBasic : "{B6BB64EE30E3347A}Assets/Items/Equipment/Backpacks/Backpack_RPG_Assistant/Data/Backpack_RPG_Assistant.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

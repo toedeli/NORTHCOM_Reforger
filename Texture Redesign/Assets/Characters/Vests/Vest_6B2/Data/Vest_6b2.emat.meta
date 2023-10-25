@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{E36135AF272AF463}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

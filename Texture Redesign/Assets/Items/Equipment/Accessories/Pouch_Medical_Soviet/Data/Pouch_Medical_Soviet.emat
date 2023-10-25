@@ -1,0 +1,8 @@
+MatPBRBasic : "{0F794B318F234D3F}Assets/Items/Equipment/Accessories/Pouch_Medical_Soviet/Data/Pouch_Medical_Soviet.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

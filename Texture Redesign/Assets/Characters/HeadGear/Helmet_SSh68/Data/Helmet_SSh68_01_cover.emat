@@ -1,0 +1,6 @@
+MatPBRBasic : "{0547C03C1D258D2B}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSh68_01_cover.emat" {
+ DiffuseIBL 1 0.85 0.386 0.412
+ SpecularMul 0.8
+ RoughnessScale 2
+ DielectricReflectance 0.02
+}

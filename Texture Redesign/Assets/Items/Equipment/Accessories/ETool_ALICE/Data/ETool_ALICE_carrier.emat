@@ -1,0 +1,7 @@
+MatPBRBasic : "{FDBD5963DFB9F510}Assets/Items/Equipment/Accessories/ETool_ALICE/Data/ETool_ALICE_carrier.emat" {
+ RoughnessScale 1.5
+ MetalnessScale 2.5
+ AOScale 0.85
+ DielectricReflectance 0.03
+ CavityFromAO 1
+}

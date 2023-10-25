@@ -1,0 +1,7 @@
+MatPBRBasic : "{B7B0D209AA80CF23}Assets/Characters/HeadGear/Helmet_M1/Data/Helmet_M1_Wineleaf_Cover.emat" {
+ DiffuseIBL 0.451 0.451 0.451 1
+ SpecularMul 1.167
+ AOScale 0.7
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

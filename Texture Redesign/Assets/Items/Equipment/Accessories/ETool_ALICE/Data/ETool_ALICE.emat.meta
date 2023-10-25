@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BFC31FA709F6FBF9}Assets/Items/Equipment/Accessories/ETool_ALICE/Data/ETool_ALICE.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

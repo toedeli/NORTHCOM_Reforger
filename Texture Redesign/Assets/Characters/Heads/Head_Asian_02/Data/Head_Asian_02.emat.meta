@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F673C7887B599097}Assets/Characters/Heads/Head_Asian_02/Data/Head_Asian_02.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

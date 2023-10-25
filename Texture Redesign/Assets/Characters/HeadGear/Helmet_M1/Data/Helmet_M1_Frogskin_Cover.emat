@@ -1,0 +1,7 @@
+MatPBRBasic : "{1FE43C96E92540E6}Assets/Characters/HeadGear/Helmet_M1/Data/Helmet_M1_Frogskin_Cover.emat" {
+ DiffuseIBL 0.451 0.451 0.451 1
+ SpecularMul 1.167
+ AOScale 0.7
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

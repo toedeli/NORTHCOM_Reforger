@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FDBD5963DFB9F510}Assets/Items/Equipment/Accessories/ETool_ALICE/Data/ETool_ALICE_carrier.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

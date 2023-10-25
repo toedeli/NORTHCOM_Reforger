@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4B97F900B4458E75}Assets/Characters/HeadGear/Hat_M70/Data/Hat_M70_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

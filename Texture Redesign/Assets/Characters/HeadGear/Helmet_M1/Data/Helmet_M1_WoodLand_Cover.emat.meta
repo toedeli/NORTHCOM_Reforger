@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{65D2A5279A71C3E9}Assets/Characters/HeadGear/Helmet_M1/Data/Helmet_M1_WoodLand_Cover.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

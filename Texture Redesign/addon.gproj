@@ -1,0 +1,8 @@
+GameProject {
+ ID "TextureRedesign"
+ GUID "5EB0AB05E3959B8F"
+ TITLE "Texture Redesign"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

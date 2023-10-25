@@ -1,0 +1,6 @@
+MatPBRMulti : "{DCCB93462C12CC49}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_M81_tucked.emat" {
+ SpecularMul 0.75
+ RoughnessScale 5
+ AOScale 0.7
+ DielectricReflectance 0.02
+}

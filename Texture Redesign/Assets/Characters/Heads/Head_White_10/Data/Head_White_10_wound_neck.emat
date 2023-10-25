@@ -1,0 +1,5 @@
+MatPBRSkinProfile : "{B3CC28031B5CBE0C}Assets/Characters/Heads/Head_White_10/Data/Head_White_10_wound_neck.emat" {
+ SpecularMul 0
+ RoughnessScale 5
+ DielectricReflectance 0.02
+}

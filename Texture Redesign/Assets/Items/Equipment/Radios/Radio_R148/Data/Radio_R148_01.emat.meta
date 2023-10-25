@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{05C0EDC94ACAC29E}Assets/Items/Equipment/Radios/Radio_R148/Data/Radio_R148_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

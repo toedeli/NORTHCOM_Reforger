@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{567E03EDD6C2A027}Assets/Items/Equipment/Accessories/Holster_M12/Data/Holster_M12.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

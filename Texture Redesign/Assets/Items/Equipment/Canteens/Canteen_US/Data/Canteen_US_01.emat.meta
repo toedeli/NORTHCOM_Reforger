@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4D1900ADC2FC4B03}Assets/Items/Equipment/Canteens/Canteen_US/Data/Canteen_US_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

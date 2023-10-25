@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{89BE6ABEB120DF39}Assets/Characters/Footwear/CombatBoots_Soviet_01/Data/CombatBoots_Soviet_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

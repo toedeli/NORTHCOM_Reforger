@@ -1,0 +1,7 @@
+MatPBRBasic : "{60FB1057056DFCDC}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_M81_item.emat" {
+ SpecularMul 0.75
+ RoughnessScale 5
+ AOScale 0.7
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

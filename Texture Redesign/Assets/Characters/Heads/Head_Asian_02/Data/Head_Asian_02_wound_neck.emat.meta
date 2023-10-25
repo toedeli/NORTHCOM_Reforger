@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4D3040CECC05C592}Assets/Characters/Heads/Head_Asian_02/Data/Head_Asian_02_wound_neck.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

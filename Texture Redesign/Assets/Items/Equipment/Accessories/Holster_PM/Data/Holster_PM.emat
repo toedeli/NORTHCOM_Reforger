@@ -1,0 +1,7 @@
+MatPBRBasic : "{B3522807D775D33D}Assets/Items/Equipment/Accessories/Holster_PM/Data/Holster_PM.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

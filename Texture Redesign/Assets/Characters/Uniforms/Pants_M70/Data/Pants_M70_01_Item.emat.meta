@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F76AC02DDEAB8C86}Assets/Characters/Uniforms/Pants_M70/Data/Pants_M70_01_Item.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

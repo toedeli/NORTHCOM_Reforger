@@ -1,0 +1,7 @@
+MatPBRBasic : "{99DE4D182117EC98}Assets/Items/Equipment/Backpacks/Backpack_Veshmeshok/Data/Backpack_Veshmeshok.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

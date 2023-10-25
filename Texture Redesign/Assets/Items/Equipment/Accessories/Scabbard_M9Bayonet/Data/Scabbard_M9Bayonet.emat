@@ -1,0 +1,7 @@
+MatPBRBasic : "{B4FD5746021DDD00}Assets/Items/Equipment/Accessories/Scabbard_M9Bayonet/Data/Scabbard_M9Bayonet.emat" {
+ RoughnessScale 1.5
+ MetalnessScale 2.5
+ AOScale 0.85
+ DielectricReflectance 0.03
+ CavityFromAO 1
+}

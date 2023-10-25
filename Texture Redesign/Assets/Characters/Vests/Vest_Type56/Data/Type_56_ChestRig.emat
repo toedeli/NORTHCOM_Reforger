@@ -1,0 +1,7 @@
+MatPBRBasic : "{33BF83EB1F15C538}Assets/Characters/Vests/Vest_Type56/Data/Type_56_ChestRig.emat" {
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.75
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

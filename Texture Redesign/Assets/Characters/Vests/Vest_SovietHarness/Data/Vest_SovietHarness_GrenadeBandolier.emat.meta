@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D21704A745F002FB}Assets/Characters/Vests/Vest_SovietHarness/Data/Vest_SovietHarness_GrenadeBandolier.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,7 @@
+MatPBRBasic : "{C08262A8F9BCC4FD}Assets/Characters/HeadGear/Hat_Panama_Soviet/Data/Hat_Panama_Soviet_02.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

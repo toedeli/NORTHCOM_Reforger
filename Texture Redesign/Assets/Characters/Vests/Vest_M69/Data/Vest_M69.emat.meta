@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{1007EAE08D3FCF55}Assets/Characters/Vests/Vest_M69/Data/Vest_M69.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

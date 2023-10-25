@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AB3C3274CE1E3808}Assets/Characters/Heads/Head_White_03/Data/Head_White_03_neck.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

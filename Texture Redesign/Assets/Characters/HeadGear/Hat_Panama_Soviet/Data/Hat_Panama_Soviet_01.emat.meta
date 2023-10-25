@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{650265A68B151753}Assets/Characters/HeadGear/Hat_Panama_Soviet/Data/Hat_Panama_Soviet_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

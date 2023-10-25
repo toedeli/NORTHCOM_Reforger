@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{46F0F82A43CBE369}Assets/Items/Equipment/Accessories/Pouch_Soviet_10rnd_SVD/Data/Pouch_Soviet_10rnd_SVD.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

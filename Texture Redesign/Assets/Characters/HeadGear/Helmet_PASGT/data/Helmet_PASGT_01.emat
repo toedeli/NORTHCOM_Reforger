@@ -1,0 +1,5 @@
+MatPBRBasic : "{F17CB6E111BD9055}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_01.emat" {
+ SpecularMul 0.75
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

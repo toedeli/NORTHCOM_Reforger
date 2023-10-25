@@ -1,0 +1,8 @@
+MatPBRBasic : "{83CB071F44BD32BA}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_rolledup.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

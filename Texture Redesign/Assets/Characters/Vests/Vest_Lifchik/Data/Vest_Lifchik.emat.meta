@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{CBE71FFD4B3A13A8}Assets/Characters/Vests/Vest_Lifchik/Data/Vest_Lifchik.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

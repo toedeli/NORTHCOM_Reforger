@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{92D7BE689C8CC3F9}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_01_scrim.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

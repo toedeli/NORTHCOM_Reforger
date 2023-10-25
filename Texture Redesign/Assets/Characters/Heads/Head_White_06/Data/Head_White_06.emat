@@ -1,0 +1,5 @@
+MatPBRSkinProfile : "{3687FD3F054BCB43}Assets/Characters/Heads/Head_White_06/Data/Head_White_06.emat" {
+ SpecularMul 0
+ RoughnessScale 5
+ DielectricReflectance 0.02
+}

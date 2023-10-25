@@ -1,0 +1,8 @@
+MatPBRBasic : "{9D43C94E04115A28}Assets/Items/Equipment/Backpacks/Backpack_Medical_M5/Data/Backpack_Medical_M5.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ MetalnessScale 0.8
+ AOScale 0.85
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

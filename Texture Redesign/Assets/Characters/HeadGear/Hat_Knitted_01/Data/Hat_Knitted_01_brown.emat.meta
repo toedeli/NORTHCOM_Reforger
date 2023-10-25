@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BD8F9DE2660F5639}Assets/Characters/HeadGear/Hat_Knitted_01/Data/Hat_Knitted_01_brown.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

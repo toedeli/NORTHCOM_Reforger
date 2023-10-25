@@ -1,0 +1,7 @@
+MatPBRBasic : "{432F0E6CCDF22604}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01.emat" {
+ SpecularMul 0.75
+ RoughnessScale 5
+ AOScale 0.7
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

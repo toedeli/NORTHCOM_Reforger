@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D19C3A89FD25E590}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Data/Backpack_ALICE_Medium_frame.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

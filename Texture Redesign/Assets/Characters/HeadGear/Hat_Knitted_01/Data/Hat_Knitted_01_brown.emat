@@ -1,0 +1,6 @@
+MatPBRBasic : "{BD8F9DE2660F5639}Assets/Characters/HeadGear/Hat_Knitted_01/Data/Hat_Knitted_01_brown.emat" {
+ SpecularMul 0
+ RoughnessScale 2
+ AOScale 0.5
+ CavityFromAO 1
+}

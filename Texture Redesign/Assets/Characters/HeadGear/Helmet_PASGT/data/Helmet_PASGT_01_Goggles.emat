@@ -1,0 +1,4 @@
+MatPBRBasic : "{E2D372B86C73D5D1}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_01_Goggles.emat" {
+ AOScale 0.7
+ CavityFromAO 0.927
+}

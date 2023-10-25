@@ -1,0 +1,6 @@
+MatPBRBasic : "{91A77E902DB1255A}Assets/Characters/HeadGear/Helmet_M1/Data/Helmet_M1.emat" {
+ RoughnessScale 2
+ AOScale 0.7
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

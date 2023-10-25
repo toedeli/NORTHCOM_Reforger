@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A289A636DB8E176A}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSh68_01_net.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

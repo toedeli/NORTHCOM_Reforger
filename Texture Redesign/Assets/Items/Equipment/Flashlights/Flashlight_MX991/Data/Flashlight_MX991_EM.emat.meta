@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{708152BDCF83A04D}Assets/Items/Equipment/Flashlights/Flashlight_MX991/Data/Flashlight_MX991_EM.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

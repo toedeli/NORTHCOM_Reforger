@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BB4D559DE2D7BC57}Assets/Characters/Heads/Head_White_04/Data/Head_White_04_wound_neck.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

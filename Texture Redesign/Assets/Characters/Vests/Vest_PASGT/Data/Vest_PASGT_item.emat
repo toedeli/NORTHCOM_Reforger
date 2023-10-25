@@ -1,0 +1,7 @@
+MatPBRBasic : "{354BF0824FCCA696}Assets/Characters/Vests/Vest_PASGT/Data/Vest_PASGT_item.emat" {
+ SpecularMul 0.75
+ RoughnessScale 5
+ AOScale 0.7
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

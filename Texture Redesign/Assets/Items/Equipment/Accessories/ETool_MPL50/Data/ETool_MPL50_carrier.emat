@@ -1,0 +1,7 @@
+MatPBRBasic : "{C8CB526DAF7B22E7}Assets/Items/Equipment/Accessories/ETool_MPL50/Data/ETool_MPL50_carrier.emat" {
+ SpecularMul 0
+ RoughnessScale 2
+ AOScale 0.65
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

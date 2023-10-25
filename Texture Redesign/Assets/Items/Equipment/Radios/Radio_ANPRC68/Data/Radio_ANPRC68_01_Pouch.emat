@@ -1,0 +1,8 @@
+MatPBRBasic : "{FD872D4AB9A1EEA1}Assets/Items/Equipment/Radios/Radio_ANPRC68/Data/Radio_ANPRC68_01_Pouch.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ MetalnessScale 0.8
+ AOScale 0.85
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

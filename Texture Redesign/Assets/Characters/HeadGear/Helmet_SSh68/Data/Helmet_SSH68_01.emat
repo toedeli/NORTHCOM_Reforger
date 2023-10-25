@@ -1,0 +1,6 @@
+MatPBRBasic : "{9626C35852E81120}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSH68_01.emat" {
+ SpecularMul 0.8
+ RoughnessScale 1.5
+ MetalnessScale 2
+ DielectricReflectance 0.03
+}

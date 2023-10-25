@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{599E46DD3D10677C}Assets/Items/Equipment/Backpacks/Backpack_M70_Swiss/Data/Backpack_M70_Swiss.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,7 @@
+MatPBRBasic : "{46F0F82A43CBE369}Assets/Items/Equipment/Accessories/Pouch_Soviet_10rnd_SVD/Data/Pouch_Soviet_10rnd_SVD.emat" {
+ DiffuseIBL 1 0.905 0.578 0.412
+ SpecularMul 0.75
+ RoughnessScale 2
+ AOScale 0.8
+ DielectricReflectance 0.02
+}

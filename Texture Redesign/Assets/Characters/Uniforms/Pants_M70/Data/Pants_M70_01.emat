@@ -1,0 +1,8 @@
+MatPBRMulti : "{28D10C03C20F4CF3}Assets/Characters/Uniforms/Pants_M70/Data/Pants_M70_01.emat" {
+ SpecularMul 0
+ RoughnessScale 2
+ MetalnessScale 5
+ AOScale 0.6
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

@@ -1,0 +1,7 @@
+MatPBRBasic : "{8B149B21ED6CDD6A}Assets/Items/Equipment/Accessories/Pouch_ALICE_20rnd_M14/Data/Common_Materials_Game_fabric.emat" {
+ RoughnessScale 1.5
+ MetalnessScale 2.5
+ AOScale 0.85
+ DielectricReflectance 0.03
+ CavityFromAO 1
+}

@@ -1,0 +1,5 @@
+MatPBRSkinProfile : "{F673C7887B599097}Assets/Characters/Heads/Head_Asian_02/Data/Head_Asian_02.emat" {
+ SpecularMul 0
+ RoughnessScale 5
+ DielectricReflectance 0.02
+}

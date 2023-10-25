@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0F794B318F234D3F}Assets/Items/Equipment/Accessories/Pouch_Medical_Soviet/Data/Pouch_Medical_Soviet.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

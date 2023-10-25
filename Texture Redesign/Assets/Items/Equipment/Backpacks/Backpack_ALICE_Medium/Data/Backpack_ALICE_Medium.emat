@@ -1,0 +1,7 @@
+MatPBRBasic : "{663AF6EC329AA9B9}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Data/Backpack_ALICE_Medium.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ MetalnessScale 0.8
+ AOScale 0.85
+ DielectricReflectance 0.02
+}

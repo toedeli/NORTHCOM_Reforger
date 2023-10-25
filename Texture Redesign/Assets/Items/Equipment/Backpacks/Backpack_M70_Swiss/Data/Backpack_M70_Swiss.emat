@@ -1,0 +1,8 @@
+MatPBRBasic : "{599E46DD3D10677C}Assets/Items/Equipment/Backpacks/Backpack_M70_Swiss/Data/Backpack_M70_Swiss.emat" {
+ SpecularMul 0.5
+ RoughnessScale 2
+ MetalnessScale 0.8
+ AOScale 0.85
+ DielectricReflectance 0.02
+ CavityFromAO 1
+}

@@ -1,0 +1,7 @@
+MatPBRBasic : "{0C3E8ADDBE734E96}Assets/Characters/Footwear/CombatBoots_US_01/Data/CombatBoots_US_01.emat" {
+ SpecularMul 0.9
+ RoughnessScale 1.4
+ MetalnessScale 0.5
+ AOScale 0.9
+ DielectricReflectance 0.035
+}
